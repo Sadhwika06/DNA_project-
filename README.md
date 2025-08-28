@@ -9,7 +9,7 @@ This project focuses on classifying different types of fashion apparel (such as 
 - NumPy, Pandas
 - Matplotlib / Seaborn
 
-Project Goals
+# Project Goals
 
 - To build and train a CNN model for fashion apparel image classification.
 - To evaluate the model performance using accuracy and loss metrics.
